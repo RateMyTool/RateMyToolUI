@@ -40,9 +40,9 @@ This section provides a walkthrough of the RateMyTool(s) user interface and its 
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL of the site.
+<img src="img/landing_page.png" width="800px">
 
-*(Mockup image coming soon)*
+The landing page is presented to users when they visit the top-level URL of the site.
 
 The landing page features:
 * Overview of the platform's purpose
@@ -72,7 +72,7 @@ Each tool has a dedicated profile page displaying:
 
 ### Add Review Page
 
-*(Mockup image coming soon)*
+<img src="img/review_page.png" width="800px">
 
 Form for students to:
 * Rate a tool across multiple dimensions
